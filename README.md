@@ -17,8 +17,8 @@
 
 
 ```python
-┌──(h4z3@root)-[~/]
-└─$ h4z3.py
+┌──(thee4one@root)-[~/]
+└─$ thee4one.py
 
 def  __social__(self):
  GitHub "https://github.com/thee4one/"
