@@ -1,55 +1,19 @@
-<!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
+<h1 align="center">Hi 👋, I'm Thee4one</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thee4one&label=Profile%20views&color=0e75b6&style=flat" alt="thee4one" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thee4one" alt="thee4one" /></a> </p>
 
-<a href="https://github.com/Ayhuuu"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
+- 🔭 I’m currently working on [Te Kazzi](https://discord.gg/tekazzi)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thee4one&show_icons=true&locale=en&layout=compact" alt="thee4one" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thee4one&show_icons=true&locale=en" alt="thee4one" /></p>
 
-
-
-
-
-
-
-
-
-
-```python
-┌──(thee4one@root)-[~/]
-└─$ thee4one.py
-
-def  __social__(self):
- GitHub "https://github.com/thee4one/"
- Discord "https://discord.gg/tekazzi"
- YouTube "https://www.youtube.com/watch?v=PsYzHV-i-CU"
-  
-def  __working__(self):
- Working "http://thee4one.online" 85%
-```
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
-
-<a href="https://github.com/thee4one/"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thee4one&" alt="thee4one" /></p>
